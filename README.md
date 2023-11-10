@@ -24,6 +24,12 @@ And then the dataset had an option that let us import in python following the in
 <img width="506" alt="Screen Shot 2023-11-10 at 3 44 02 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/c3a6feaf-5bcb-4ddb-9cb4-1dfc6555264a">
 
 Diabetes and Platelets 
+
 In this dataset diabetes represents whether a person has diabetes or not. This is the independent variable.
+
 The platelets are the platelets in  the blood in kiloplatelets/mL. This represents the dependent variable.
+
 I will be looking at the relationship between the two and how whether having diabetes may affect your platelet count. 
+
+<img width="740" alt="Screen Shot 2023-11-10 at 3 52 20 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/69d27963-0c4f-42a5-8783-ba6af7372a3e">
+
