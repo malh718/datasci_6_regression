@@ -21,11 +21,16 @@ And then the dataset had an option that let us import in python following the in
 
 <img width="493" alt="Screen Shot 2023-11-10 at 7 03 51 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/68b3c8ad-d41b-4726-8db7-52f93875a3d1">
 
+#BEAN EXAMPLE
 
+# WINE EXAMPLE 
 I also added my Wine example, as I cleaned it up and explained the information. 
+
 Linear Regression
 Rainbow Test: stat=2.3899371469856194, p-value=3.0882100589536056e-05
+
 Shapiro-Wilk Test: W=0.9456958174705505, p-value=2.636219278429053e-06
+
 Goldfeld-Quandt Test: F-statistic=1.9995164818409268, p-value=0.0007090877682898954
 
 <img width="679" alt="Screen Shot 2023-11-10 at 7 07 25 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/e890db2f-37fb-48bf-a01e-f45a02504cee">
@@ -33,9 +38,13 @@ Goldfeld-Quandt Test: F-statistic=1.9995164818409268, p-value=0.0007090877682898
 <img width="681" alt="Screen Shot 2023-11-10 at 7 07 45 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/6c3e03c5-2074-45af-bead-25016d2a826c">
 
 Multiple Linear: Wine 
+
 Rainbow Test: stat=1.893714151703762, p-value=0.001790364287723384
+
 Shapiro-Wilk Test: W=0.9577372074127197, p-value=3.4421846066834405e-05
+
 Goldfeld-Quandt Test: F-statistic=2.630372148018502, p-value=8.122018172258795e-06
+
 <img width="681" alt="Screen Shot 2023-11-10 at 7 08 49 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/68120752-35d9-49d1-961c-e5e1cf6a3a12">
 
 
