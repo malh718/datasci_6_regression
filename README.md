@@ -35,8 +35,8 @@ Goldfeld-Quandt Test: F-statistic=0.1806791713822503, p-value=0.9999999999999999
 
 <img width="854" alt="Screen Shot 2023-11-10 at 7 16 19 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/1ba624a8-055a-4699-9819-cba2ed1f30a2">
 
+<img width="859" alt="Screen Shot 2023-11-10 at 7 20 24 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/21b9983c-f559-4d31-ac1d-c2a946c4d952">
 
-<img width="1440" alt="Screen Shot 2023-11-10 at 7 16 28 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/8cafb824-4d00-4d8e-891a-6f07046cb549">
 
 <img width="873" alt="Screen Shot 2023-11-10 at 7 16 50 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/99c3656f-312a-4f8f-afaf-957469962c42">
 
@@ -78,7 +78,6 @@ Shapiro-Wilk Test: W=0.9577372074127197, p-value=3.4421846066834405e-05
 Goldfeld-Quandt Test: F-statistic=2.630372148018502, p-value=8.122018172258795e-06
 
 <img width="681" alt="Screen Shot 2023-11-10 at 7 08 49 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/68120752-35d9-49d1-961c-e5e1cf6a3a12">
-<img width="859" alt="Screen Shot 2023-11-10 at 7 20 24 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/21b9983c-f559-4d31-ac1d-c2a946c4d952">
 
 
 <img width="676" alt="Screen Shot 2023-11-10 at 7 08 58 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/8e3929b2-37f3-4a59-a35c-ae0b5a4416eb">
