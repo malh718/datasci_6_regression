@@ -79,8 +79,7 @@ Goldfeld-Quandt Test: F-statistic=2.630372148018502, p-value=8.122018172258795e-
 
 <img width="681" alt="Screen Shot 2023-11-10 at 7 08 49 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/68120752-35d9-49d1-961c-e5e1cf6a3a12">
 
-<img width="859" alt="Screen Shot 2023-11-10 at 7 22 40 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/d427a04a-6e48-4813-b824-e2de4c113f40">
-
+<img width="835" alt="Screen Shot 2023-11-10 at 7 23 11 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/6410b63b-ca05-428a-a28b-a5694f9485df">
 
 <img width="682" alt="Screen Shot 2023-11-10 at 7 10 08 PM" src="https://github.com/malh718/datasci_6_regression/assets/102617334/244de743-07d4-49ca-b7e2-77d001378892">
 
