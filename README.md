@@ -4,6 +4,8 @@ Part 1
 
 In this dataset we are looking at dataset titled Beans by UC Irvine. 
 
+Below I also updated the Wine dataset.
+
 Our first steps include importing over all the packages you need. 
 Which are: 
 import pandas as pd
